@@ -1,7 +1,11 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif)
+!![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif)
 <h1 align="center">Hi 👋, I'm Anubhav Behera</h1>
 <h3 align="center">A 3rd year B.Tech student at KIIT</h3>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav0809&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav0809" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhav0809" alt="anubhav0809" /></a> </p>
 
 - 🔭 I’m currently working on **a text analysis project**
 
@@ -22,4 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav0809&show_icons=true&locale=en&layout=compact" alt="anubhav0809" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav0809&show_icons=true&locale=en" alt="anubhav0809" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav0809&" alt="anubhav0809" /></p>
 

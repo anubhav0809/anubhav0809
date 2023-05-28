@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav0809&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav0809" /> </p>
 
-- 🔭 I’m currently working on **a Stock Analysis Project**
+- 🔭 I’m currently working on a **Job Finder Project**
 
 - 📫 How to reach me **anubhavsaturday@gmail.com**
 
